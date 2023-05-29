@@ -33,4 +33,4 @@ python -m pip install flask
 
 flask run --host="0.0.0.0"
 
-10. Click on the link which starts with 192.168 to run the code
+10. Click on any of the the two links to run the code.
